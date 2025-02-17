@@ -7,7 +7,11 @@ public class one{
         j[2] = 34;
         j[2] = 85;*/
 
-        int[] j = {5,8,5,9,1};
+        //int[] j = {5,8,5,9,1};
+
+        int[] j;
+
+        j = new int[] {5,8,5,9,1};
 
         System.out.println(j[2]);
         System.out.println(j[4]);
